@@ -9,4 +9,7 @@ Database of 100.000 orders from the Brazilian eccomerce business Olist. Dataset 
 Packages used: numpy, pandas, matplotlib
 
 
-## 2. Project
+## 2. [Time series forcasting - hybrid ARIMA Random Forest model](https://github.com/evaenglert/RandomForestHybridModel)
+
+Paper: [here](https://github.com/evaenglert/RandomForestHybridModel/blob/master/Time_series_forecasting_using_a_hybrid_ARIMA_and_Random_Forest_Model%20(1).pdf)
+Github repo : [here](https://github.com/evaenglert/RandomForestHybridModel)
