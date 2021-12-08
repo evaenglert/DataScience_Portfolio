@@ -19,7 +19,7 @@ I have worked in a team of 4 to create an app that can predict letters and digit
 
 This work was created as a final project for the Empirical Finance Research Program by Corvinus University Budapest. I explored the idea of using hybrid models for time series forcasting, the concept originating from a [paper by G.P.Zhang](https://www.sciencedirect.com/science/article/abs/pii/S0925231201007020), who combined an ARIMA model with a neural network. I tried to replicate the structure described in the paper using MATLAB, but used a Random Forest model instead of neural networks. Even though results were not great (the baseline models performed better than the my hybird one) I summarized my work in a working paper, that you can find attached. 
 
-## 3. [Zoopla web scraping]
+## 3. Zoopla web scraping
 ![Image](https://raw.githubusercontent.com/evaenglert/DataScience_Portfolio/main/Housing.png)
 
 - Repo: to be added
