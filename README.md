@@ -3,7 +3,7 @@ Hi there! Please find below some projects I have worked on in the past.
 
 
 ## 1. [Sign Language - real-time translation](https://share.streamlit.io/evaenglert/flykrapp)
-![Image](https://github.com/evaenglert/DataScience_Portfolio/blob/main/SignLanguage2.png)
+![Image](https://raw.githubusercontent.com/evaenglert/DataScience_Portfolio/main/SignLanguage2.png)
 
 Website: https://share.streamlit.io/evaenglert/flykrapp 
 
