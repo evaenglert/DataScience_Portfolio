@@ -6,7 +6,11 @@ Hi there! Please find below some projects I have worked on in the past.
 ![Image](https://raw.githubusercontent.com/evaenglert/DataScience_Portfolio/main/SignLanguage2.png)
 
 - Website: [https://share.streamlit.io/evaenglert/flykrapp](https://share.streamlit.io/evaenglert/flykrapp)
-- Repos: model: [https://github.com/rkumar-slim/flykr](https://github.com/rkumar-slim/flykr), front-end: [https://github.com/rkumar-slim/flykrinterface](https://github.com/rkumar-slim/flykrinterface)
+- Repos:  [https://github.com/evaenglert/sign-app](https://github.com/evaenglert/sign-app)
+
+![Alt Text](https://raw.githubusercontent.com/evaenglert/DataScience_Portfolio/main/sign-lang.gif)
+
+Yes, this is me! :) Short demo of the application showing letters a-g and some numbers.
 
 I have worked in a team of 4 to create an app that can predict letters and digits from the American Sign Language in real-time, using the webcam. We used transfer learning (VGG-16) for the image classification part (trained on some amazing kaggle datasets) and used mediapipe & cvzone for the object-detection part. Additionally, I have build a flashcard functionality that can be used to learn the basics of ASL. For this bit, I deployed APIs through Cloud Run and FastAPI, and the whole app was made available via Streamlit Cloud. 
 
